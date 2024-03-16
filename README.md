@@ -12,6 +12,8 @@ Apaixonada por Desenvolvimento Web.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahVargas79&theme=algolia)](https://github.com/SarahVargas79/github-readme-stats)
 
+<br>
+
 ## Tecnologias que uso no meu dia
 
 <div><br>
