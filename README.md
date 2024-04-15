@@ -2,7 +2,7 @@
 
 👩🏽‍💻 Análise e Desenvolvimento de Sistemas pelo UniSenac
 
-🎮 Adorador de video game.
+🎮 Adoradora de video game.
 
 Apaixonada por Desenvolvimento Web.
 
