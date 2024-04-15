@@ -19,6 +19,13 @@ Apaixonada por Desenvolvimento Web.
 <div><br>
     <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=85&color=currentColor">
     <img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=85&color=currentColor">
+</div>
+
+<br>
+
+## Tecnologias que não uso habitualmente
+
+<div><br>
     <img alt="java" src="https://icongr.am/devicon/java-original.svg?size=85&color=currentColor">
     <img alt="mysql" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=85&color=000000">
     <img alt="php" src="https://icongr.am/devicon/php-original.svg?size=85&color=000000">
