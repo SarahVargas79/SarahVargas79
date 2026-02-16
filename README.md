@@ -1,39 +1,59 @@
-### Olá! Eu sou a Sarah Vargas 👋🏾
+# Olá! Eu sou a Sarah Vargas 👋🏾
 
-👩🏽‍💻 Análise e Desenvolvimento de Sistemas pelo UniSenac
+**Desenvolvedora Web | Estudante de Análise e Desenvolvimento de Sistemas (UniSenac)**
 
-🎮 Adoradora de video game.
+Sou uma desenvolvedora focada em criar experiências web responsivas, modernas e eficientes. Com uma base sólida em front-end e em constante evolução no ecossistema de desenvolvimento, busco unir design inteligente e código limpo para resolver problemas reais. 
 
-Apaixonada por Desenvolvimento Web.
+Atualmente, estou me aprimorando na construção de aplicações web, explorando desde estilizações avançadas (CSS, UI/UX, Light/Dark modes) até integrações de APIs e conceitos de IA Generativa.
 
-[![Blog](https://icongr.am/devicon/linkedin-original-wordmark.svg?size=115&color=000000)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+---
 
-![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahVargas79&theme=algolia&show_icons=true)
+### 🚀 Meu Foco e Habilidades
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahVargas79&theme=algolia)](https://github.com/SarahVargas79/github-readme-stats)
+**Front-end & UI:** Construção de interfaces semânticas, acessíveis e componentizadas.
+**Ecossistema & Ferramentas:** Consumo de APIs (REST, AWS API Gateway), versionamento de código e metodologias ágeis.
+**Aprendizado Contínuo:** Certificada na trilha Discover (Rocketseat) e sempre explorando novas tecnologias.
 
-<br>
+### 🛠️ Tecnologias e Ferramentas
 
-## Tecnologias que uso no meu dia
-
-<div><br>
-    <img alt="html5" src="https://icongr.am/devicon/html5-original.svg?size=85&color=currentColor">
-    <img alt="css3" src="https://icongr.am/devicon/css3-original.svg?size=85&color=currentColor">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"  />
+  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"  />
 </div>
 
-<br>
+---
 
-## Tecnologias que não uso habitualmente
+### 💻 Projetos em Destaque
 
-<div><br>
-    <img alt="java" src="https://icongr.am/devicon/java-original.svg?size=85&color=currentColor">
-    <img alt="mysql" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=85&color=000000">
-    <img alt="php" src="https://icongr.am/devicon/php-original.svg?size=85&color=000000">
+* **[Meu Portfólio Pessoal](#)**: Desenvolvimento completo com foco em UI avançada, incluindo implementação de temas Light/Dark mode e CSS moderno.
+* **[Integração com IA Generativa (SComfort)](#)**: Projeto envolvendo a criação de interface web e consumo de APIs para integração com inteligência artificial.
+* **[Estudos em Cloud & APIs](#)**: Pesquisa e estruturação de arquiteturas serverless, com foco em AWS API Gateway.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SarahVargas79&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahVargas79&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
-<br>
+---
 
-## Tecnologia de conhecimento básico
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-vargas-3656552b9)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarinha.chu@outlook.com)
 
 <br>
-<img alt="js" src="https://icongr.am/devicon/javascript-original.svg?size=85&color=currentColor">
+<p align="center"><i>"A tecnologia é a ferramenta; a lógica e a criatividade são o motor."</i> 🎮</p>
