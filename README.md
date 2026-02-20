@@ -1,18 +1,17 @@
 # Olá! Eu sou a Sarah Vargas 👋🏾
 
-**Desenvolvedora Front-end em Formação | Apaixonada por Tecnologia e Interfaces**
+Como estudante de Análise e Desenvolvimento de Sistemas no UniSenac, construo minha trajetória unindo experiência em suporte técnico com desenvolvimento de software. Meu objetivo é transformar problemas do dia a dia em soluções práticas, seja por meio de código, automações simples ou interfaces web modernas.
 
-Meu objetivo é claro: transformar linhas de código em soluções reais. Como estudante de Análise e Desenvolvimento de Sistemas no UniSenac, estou construindo minha carreira no mercado de tecnologia com foco em **Desenvolvimento Web e Front-end**.
-
-Tenho uma base lógica sólida vinda da minha formação técnica e, atualmente, dedico meus estudos a criar interfaces responsivas, acessíveis e visualmente impactantes. Estou em busca da minha primeira oportunidade oficial no ecossistema tech para aplicar minha dedicação e crescer junto com times experientes.
+Tenho base em lógica de programação (Java e Python) e atualmente foco meus estudos em HTML, CSS e JavaScript, criando interfaces responsivas e trabalhando com consumo de APIs e integração de ferramentas de Inteligência Artificial no fluxo de desenvolvimento. Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, seja no Front-end, em scripts de automação ou no suporte a aplicações.
 
 <br>
 
-### 🚀 O que estou construindo
+### 🚀 Meu Foco 
 
-* **Foco Atual:** Domínio de JavaScript (ES6+), HTML5 Semântico e CSS3 Moderno (Flexbox, Grid, Responsividade).
-* **Próximos Passos:** Aprofundamento em **React.js** e ecossistema de frameworks modernos.
-* **Minha Abordagem:** Escrevo código pensando em quem vai ler depois. Valorizo organização, semântica e boas práticas.
+* **Front-end & Web:** Domínio de JavaScript (ES6+), HTML5 Semântico e CSS3 Moderno (Flexbox, Grid, Variáveis CSS, UI/UX).
+* **Automação & Lógica:** Aplicação de Python e JS para scripts utilitários, resolução de problemas e consumo de APIs REST.
+* **IA como Aliada:** Uso de ferramentas como Google Gemini, ChatGPT e Copilot para estruturar ideias, gerar código inicial e apoiar meu aprendizado.
+* **🌱 Trilha de Estudos (Próximos Passos):** Foco em evoluir para uma stack moderna Fullstack, com estudos mapeados em **React, TypeScript, Node.js e PostgreSQL**.
 
 <br>
 
@@ -25,6 +24,10 @@ Tenho uma base lógica sólida vinda da minha formação técnica e, atualmente,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"  />
 </div>
 
@@ -34,8 +37,8 @@ Tenho uma base lógica sólida vinda da minha formação técnica e, atualmente,
 
 | Projeto | Descrição |
 | :--- | :--- |
-| **[Meu Portfólio Pessoal](https://github.com/SarahVargas79/profile-card.git)** | Desenvolvimento completo focado em UI/UX, CSS moderno e Responsividade. |
-| **[Integração Web & IA](https://github.com/SarahVargas79/ContentGen-Scomfort-AI.git)** | Projeto prático (SComfort) de consumo de APIs e estruturação de interfaces dinâmicas. |
+| **[ContentGen Scomfort (Integração Web & IA)](https://github.com/SarahVargas79/ContentGen-Scomfort-AI.git)** | Aplicação interativa com consumo dinâmico de APIs REST e integração de IA Generativa via requisições assíncronas (Promises/Fetch) e manipulação de JSON. |
+| **[Link Tree (UI/UX & Persistência)](https://github.com/SarahVargas79/profile-card.git)** | Desenvolvimento Front-end com foco em responsividade, uso avançado de variáveis CSS (Dark/Light Mode) e manipulação do DOM com `localStorage`. |
 
 <br>
 
@@ -43,7 +46,7 @@ Tenho uma base lógica sólida vinda da minha formação técnica e, atualmente,
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=SarahVargas79&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SarahVargas79&layout=compact&theme=tokyonight&hide_border=true&hide=python" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SarahVargas79&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
